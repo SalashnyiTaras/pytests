@@ -1,1 +1,4 @@
 venv
+.caveragerc
+.idea/
+__pycache__/
